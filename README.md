@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola, soy AngelGB!  
+🚀 **Full Stack Developer | Apasionado por la tecnología y la programación**  
 
-<!--
-**AngelGallegoDev/AngelGallegoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta desarrollar soluciones tecnológicas y enfrentar desafíos que me permitan seguir aprendiendo cada día. Tengo experiencia en **JavaScript, React, Python, Flask, SQLAlchemy, HTML, CSS, Bootstrap **, y sigo explorando nuevas tecnologías para mejorar mis habilidades.  
 
-Here are some ideas to get you started:
+💡 Actualmente trabajo en proyectos Full Stack, integrando APIs, mejorando seguridad y optimizando la experiencia de usuario.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Tecnologías y Herramientas**  
+💻 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Bootstrap  
+🛠 **Backend:** Python (Flask), SQLAlchemy, Node.js  
+🗄 **Bases de datos:** PostgreSQL, MySQL  
+🔗 **APIs:** RESTful, Finnhub API, 4Geeks API  
+⚡ **Otros:** Git/GitHub, Flask-Mail, JWT, Web Scraping con Scrapy  
+
+---
+
+## 🚀 **Proyectos Destacados**
+🌐 **[Mi Proyecto Bancario](https://github.com/AngelGallegoDev/Proyecto_Final_Banco)** – Plataforma financiera con una tienda, bolsa de valores con React y Flask, integración de Finnhub API y seguridad con JWT y scraping.  
+
+---
+
+## 📫 **Conéctate conmigo**  
+🌍 [LinkedIn](https://www.linkedin.com/in/angel-gallego-654033331)  
+📩 [Email](mailto:angelgb1990@gmail.com)  
+⚡ **Siempre abierto a nuevas oportunidades y colaboración en proyectos interesantes.**  
+
+¡Gracias por visitar mi perfil! ⭐ Si te interesa mi trabajo, siéntete libre de seguirme y colaborar.  
+
+---
