@@ -11,7 +11,6 @@ Me encanta desarrollar soluciones tecnológicas y enfrentar desafíos que me per
 🗄 **Bases de datos:** PostgreSQL, MySQL  
 🔗 **APIs:** RESTful, Finnhub API, 4Geeks API  
 ⚡ **Otros:** Git/GitHub, Flask-Mail, JWT, Web Scraping con Scrapy  
-CSS3 HTML5 JavaScript Java Python Vercel Render Bootstrap JWT jQuery Next JS NodeJS React React Router TailwindCSS WordPress MySQL Adobe Photoshop Adobe Illustrator Blender Figma Sketch Up Git GitHub Docker Postman
 ---
 
 ## 🚀 **Proyectos Destacados**
