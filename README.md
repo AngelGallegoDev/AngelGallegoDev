@@ -6,7 +6,7 @@ Me encanta desarrollar soluciones tecnológicas y enfrentar desafíos que me per
 💡 Actualmente trabajo en proyectos Full Stack, integrando APIs, mejorando seguridad y optimizando la experiencia de usuario.  
 
 ## 🔧 **Tecnologías y Herramientas**  
-💻 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Bootstrap  
+💻 **Frontend:** ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) Bootstrap  
 🛠 **Backend:** Python (Flask), SQLAlchemy, Node.js  
 🗄 **Bases de datos:** PostgreSQL, MySQL  
 🔗 **APIs:** RESTful, Finnhub API, 4Geeks API  
