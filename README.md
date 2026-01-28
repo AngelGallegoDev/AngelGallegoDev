@@ -43,5 +43,4 @@ Currently enrolled in an **AI Master program (BIG school)** focused on practical
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/angel-gallego-654033331/
-- Email: angelgb1990@gmail.com
 - GitHub: https://github.com/AngelGallegoDev
