@@ -1,51 +1,47 @@
-# 👋 ¡Hola, soy **AngelGB**!  
 
-🚀 **Desarrollador Full Stack | Apasionado por la tecnología, la seguridad y la innovación**  
+# Angel Gallego Braga — Full-Stack Junior (Backend-leaning)
 
-Me encanta desarrollar soluciones tecnológicas, enfrentar desafíos y mejorar la experiencia de usuario en aplicaciones web. Siempre estoy explorando nuevas tecnologías para seguir creciendo como desarrollador.  
+I build **REST APIs** with **Node/Express + PostgreSQL + TypeScript** (auth, testing, Docker, CI) and ship **React/TypeScript** UIs that consume those APIs.
+Open to **Junior Backend / Full-Stack** roles (Remote preferred / Hybrid Madrid-Toledo).
 
-💡 Actualmente, trabajo en **proyectos Full Stack**, integrando APIs, optimizando seguridad y mejorando la eficiencia del backend con **Flask y SQLAlchemy**.  
+## Tech Stack
+**Backend:** Node.js, Express, TypeScript, PostgreSQL, REST, JWT/Auth, Docker, Testing  
+**Frontend:** React, TypeScript, HTML/CSS  
+**Tooling:** Git, GitHub, CI (GitHub Actions), Deploy
 
----
+## Featured Projects
+- **Backend API (Flagship)** — REST API with auth + PostgreSQL + tests + Docker + CI  
+  Repo: (add link) · Demo/Docs: (add link)
 
-## 🔧 **Tecnologías y Herramientas**  
+- **Full-Stack Demo** — React/TS frontend consuming the API (CRUD + auth)  
+  Repo: (add link) · Demo: (add link)
 
-### 🎨 **Frontend:**  
-💻 React | ⚡ JavaScript | 🎨 HTML | 🎨 CSS | 🚀 Bootstrap | 🎯 Tailwind CSS | 🌍 React Router  
+- **GeekBank** — React + Flask (bootcamp final project). JWT + PostgreSQL/SQLAlchemy + email recovery  
+  Repo: (add link) · Demo/Video: (add link)
 
-### 🛠 **Backend:**  
-🐍 Python (Flask) | ⚙️ SQLAlchemy | 🌎 Node.js  
+- **Quantia (Public Case Study)** — Personal finance app (React Native). Main repo is private due to future release  
+  Case study: (add link)
 
-### 🗄 **Bases de Datos:**  
-🐘 PostgreSQL | 🛢 MySQL  
+## Applied AI (in progress)
+Currently enrolled in an **AI Master program (BIG school)** focused on practical AI for productivity and automation:
+- **LLMs & Prompting:** reusable prompts, constraints, output formats, validation (ChatGPT/Gemini/Claude/Copilot)
+- **AI-assisted development:** Cursor / Copilot / Claude Code for refactors, docs and debugging
+- **Automation:** n8n / Make workflows (webhooks, error handling, credentials)
+- **Assistants/Agents:** task-oriented assistants using APIs (tools + workflows)
+- **Good practices:** privacy, IP and responsible usage
 
-### 🔗 **APIs & Servicios:**  
-📡 Finnhub API | 🔄 4Geeks API | ⚙️ RESTful APIs  
+📌 Evidence:
+- `n8n-workflows` — exported workflows + README
+- `prompt-library` — reusable prompt templates + examples
 
-### 🔐 **Seguridad y Autenticación:**  
-🔑 JWT | 📩 Flask-Mail  
+## What I bring from day 1
+- Clean, documented endpoints and API design
+- PostgreSQL persistence (schemas, migrations, queries)
+- Basic unit/integration testing + CI
+- Dockerized dev setup
+- Practical “ship-first” mindset
 
-### 🛠 **Otros:**  
-🌀 Git/GitHub | 🕵️ Web Scraping con Scrapy  
-
----
-
-## 🚀 **Proyectos Destacados**  
-
-### 🌐 [**Proyecto Bancario**](https://github.com/AngelGallegoDev/Proyecto_Final_Banco)  
-✅ **Plataforma financiera** con **React y Flask**  
-✅ **Bolsa de valores** con integración de **Finnhub API**  
-✅ **Autenticación segura** con **JWT**  
-✅ **Web Scraping con Scrapy** para obtener información de productos  
-
----
-
-## 📫 **¡Conéctate conmigo!**  
-
-🔗 [**LinkedIn**](https://www.linkedin.com/in/angel-gallego-654033331)  
-📩 [**Email**](mailto:angelgb1990@gmail.com)  
-
-⚡ **Siempre abierto a nuevas oportunidades, colaboraciones y aprendizaje continuo.**  
-⭐ **Si te interesa mi trabajo, sígueme y colaboremos en proyectos increíbles.** 🚀  
-
----
+## Contact
+- LinkedIn: https://www.linkedin.com/in/angel-gallego-654033331/
+- Email: angelgb1990@gmail.com
+- GitHub: https://github.com/AngelGallegoDev
