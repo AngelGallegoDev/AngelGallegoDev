@@ -11,16 +11,16 @@ Open to **Junior Backend / Full-Stack** roles (Remote preferred / Hybrid Madrid-
 
 ## Featured Projects
 - **Backend API (Flagship)** — REST API with auth + PostgreSQL + tests + Docker + CI  
-  Repo: (add link) · Demo/Docs: (add link)
+
 
 - **Full-Stack Demo** — React/TS frontend consuming the API (CRUD + auth)  
-  Repo: (add link) · Demo: (add link)
+
 
 - **GeekBank** — React + Flask (bootcamp final project). JWT + PostgreSQL/SQLAlchemy + email recovery  
-  Repo: (add link) · Demo/Video: (add link)
+
 
 - **Quantia (Public Case Study)** — Personal finance app (React Native). Main repo is private due to future release  
-  Case study: (add link)
+
 
 ## Applied AI (in progress)
 Currently enrolled in an **AI Master program (BIG school)** focused on practical AI for productivity and automation:
